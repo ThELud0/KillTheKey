@@ -1,0 +1,25 @@
+.table-cell {
+    -fx-font-size: 25px; 
+    -fx-text-fill: #FF0000;
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bold;
+} 
+
+.table-view {
+    -fx-background-image: url('UniversNoir.jpeg');
+    -fx-background-size: 1200px 900px; 
+}
+
+.table-row-cell {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+    -fx-text-fill: red;
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bold;
+
+}
